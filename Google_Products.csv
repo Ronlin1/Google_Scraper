@@ -1,0 +1,281 @@
+,Product,Summary
+0,Actions console,"Create, manage, and deploy your Actions projects."
+1,Actions on Google account linking,Link your users' accounts
+2,Actions on Google Content Actions,Create rich Google Search and Assistant experiences with your content.
+3,Actions on Google Interactive Canvas,Create immersive experiences with Interactive Canvas
+4,Actions on Google Smart Home,Build smart home Actions for the Google Assistant.
+5,Actions on Google Transactions,Add transactions to your Actions.
+6,Activity Recognition API,Accurately detect users' activity using low power signals from multiple sensors in the device.
+7,AdSense Custom Search Ads,Implementations that provide delivery of targeted ads along with your search results.
+8,Alert Center API,Manages alerts on issues affecting your domain.
+9,AMP for Email,Let users interact dynamically with email content in Gmail.
+10,AMP on Google,Integrate your AMP content with Google.
+11,Analytics Core Reporting API,"Access Google Analytics report data to build custom dashboards, automate complex reporting tasks, and integrate your data with other applications."
+12,Analytics Embed API,Create and embed a Google Analytics dashboard on a third-party website.
+13,Analytics for AMP Pages,Measure user interaction with AMP pages.
+14,Analytics for Firebase - Android,Measure user interaction with Android apps.
+15,Analytics for Firebase - iOS,Measure user interaction with iOS apps.
+16,Analytics Management API,Access Google Analytics configuration data to programmatically manage Analytics accounts.
+17,Analytics Measurement Protocol,Send raw user interaction data to Google Analytics using HTTP requests.
+18,Analytics Metadata API,Access all dimensions and metrics exposed in the Google Analytics reporting APIs.
+19,Analytics Multi-Channel Funnels Reporting API,Request Multi-Channel Funnels data for an authenticated user to analyze how multiple marketing channels influence conversions over time.
+20,Analytics Provisioning API,Create new Google Analytics accounts and enable Analytics for your customers at scale.
+21,Analytics Real Time Reporting API,Request real-time data for an authenticated user to report activity that is occurring on your property.
+22,Android Developers,"The official site for Android app developers. Provides tools, training, and documentation."
+23,Android Enterprise Partner Programs,Add enterprise features and services to your Android devices to make them Enterprise Recommended.
+24,Android for Cars,Overview of Android for Cars documentation.
+25,Android Management API,Manage Android devices and apps.
+26,Android Things,Build devices based on the Android Things platform.
+27,Android zero-touch enrollment,Tools for device resellers and enterprise mobility management (EMM) providers to assign and provision fully managed devices for enterprise customers.
+28,API Client Libraries,Client libraries for accessing Google APIs.
+29,API for Domain Connect,Provide endpoints for domain service providers to initiate the Domain Connect protocol.
+30,Angular,A modern web development platform with fully integrated tools and a focus on maintainability and collaboration that helps your code reach further.
+31,Angular CLI,"The Angular CLI is a command-line interface tool that you use to initialize, develop, scaffold, and maintain Angular applications directly from a command shell."
+32,Angular DevTools,Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
+33,Angular Material,Material Design components for Angular.
+34,Apigee Edge,Develop and manage API proxies.
+35,App Actions,Launch and deep link into Android apps from Google Assistant.
+36,Apps Script,"A cloud-based JavaScript platform that lets you integrate with and automate tasks across Google products. Write code that programmatically performs tasks across Google products. Automations are set in motion by custom menus, buttons, user actions, or"
+37,ARCore,"With ARCore, build new augmented reality experiences that seamlessly blend the digital and physical worlds. Transform the way people play, shop, learn, create, and experience the world together—at Google scale."
+38,Bazel,Bazel is an open-source build and test tool that scalably supports multi-language and multi-platform projects.
+39,BeyondCorp Enterprise,"Access web applications securely from anywhere and without the need for VPN, while reducing the threats of malware, phishing, and data loss."
+40,BigQuery Connection API Client Libraries,"Information about interacting with BigQuery Connection API in C#, Go, Java, Node.js, PHP, Python, Ruby."
+41,BigQuery Reservation API Client Libraries,"Information about interacting with BigQuery Reservation API in C#, Go, Java, Node.js, PHP, Python, Ruby."
+42,BigQuery Storage Read API overview,"The BigQuery Storage Read API provides fast access to BigQuery-managed storage by using an rpc-based protocol. Historically, users of BigQuery have had two mechanisms for accessing BigQuery-managed table data: Record-based paginated access by using"
+43,Blink,A rendering engine for the Chromium project with the mission to improve the open web through technical innovation and good citizenship.
+44,Blogger,The Blogger APIs enable client applications to view and update Blogger content.
+45,Caja,Google Caja is a security sandbox for JavaScript and HTML.
+46,Calendar API,Integrate your service with Google Calendar.
+47,Campaign Manager 360,"Build applications to efficiently manage large or complex trafficking, reporting, and attribution workflows for Campaign Manager 360."
+48,Cardboard,Cardboard open source library for Virtual Reality (VR) on Android and iOS supporting native and Unity.
+49,Cast,View content from a mobile device on your TV.
+50,Certificate Authority Service,Simplify deployment and management of private CAs without managing infrastructure.
+51,Checkout solution,Ease entry of billing and shipping addresses into checkout forms with Place Autocomplete.
+52,Chrome,"Chrome is the browser built by Google. Learn to build Extensions, publish on the Chrome Web Store, optimize your website, and more."
+53,Chrome Management API,"The Chrome Management API is a suite of services that allows Google Workspace administrators to view, manage and gain insights on the Chrome OS and Chrome Browser devices that are under their management."
+54,Chrome OS,"Chrome OS is the speedy, simple and secure operating system that powers every Chromebook."
+55,Chrome Policy API,"The Chrome Policy API allows Google Workspace administrators to view, manage and apply policies on the Chrome OS and Chrome Browser devices that are under their management."
+56,Chrome UX Report,Obtain user experience metrics for how real-world Chrome users experience popular destinations on the web.
+57,Chrome Verified Access API,API for the Verified Access Chrome extension to provide credential verification for Chrome devices connecting to an enterprise network.
+58,Chromium,"An open source browser project that aims to build a safer, faster, and more stable way for all internet users to experience the web."
+59,Civic Information API,The Civic Information API allows you to build applications that allow citizens and voters to know about their political representation and voting locations.
+60,Classroom API,"Manage your courses, assignments, teachers, and more."
+61,Closure Tools,"The Closure Compiler, Library, Templates, and Stylesheets help developers create powerful and efficient JavaScript."
+62,Cloud Asset Inventory,"A metadata inventory service that allows you to view, monitor, and analyze all your GCP and Anthos assets across projects and services."
+63,Cloud Audit Logs overview,"This document provides a conceptual overview of Cloud Audit Logs. Google Cloud services write audit logs that record administrative activities and accesses within your Google Cloud resources. Audit logs help you answer ""who did what, where, and"
+64,Cloud Code,"Write, debug, and deploy your cloud-based applications for IntelliJ, VS Code, or in your browser."
+65,Cloud Data Loss Prevention,Programmatic detection and de-identification of sensitive or personally identifiable information in structured and unstructured data.
+66,Cloud HSM,This topic provides an overview of Cloud HSM and shows you how to create and use HSM-protected encryption keys in Cloud Key Management Service. Cloud HSM is a cloud-hosted Hardware Security Module (HSM) service that allows you to host encryption keys
+67,Cloud IDS,"Cloud IDS monitors your networks, and it alerts you when it detects malicious activity. Cloud IDS is powered by Palo Alto Networks."
+68,Cloud Key Management,Encryption key management enables data protection for security and privacy. Key management systems and services are critical for data security.
+69,Cloud Print,"Enables any app (web, desktop, mobile) on any device to print to any printer."
+70,Code Search,A public code search tool for exploring code without downloading the source.
+71,Compute Engine: Virtual Machines (VMs),Provides VM capabilities.
+72,Confidential Computing,"Confidential Computing. Confidential VMs can enable encryption of data in use, and provide confidentiality without compromising on performance."
+73,Connecting to registered clusters with the Connect gateway,"This guide assumes that you are already familiar with some basic fleet concepts, and with registering clusters to Google Cloud. If not, you can find out more in the Fleets guide and in Registering a cluster. You should also be familiar with"
+74,Content API for Shopping,An API that lets you programmatically manage your Shopping product items.
+75,Conversational Actions,"Build voice and visual experiences for smart speakers, displays, and phones."
+76,Dart (language),An open source programming language for creating highly optimized mobile and web apps.
+77,Data Studio,"Data Studio is a free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports."
+78,Data Transfer API,Move files from one user to another.
+79,Dataset Publishing Language,Import your data into the Google Public Data Explorer.
+80,Depthmap Metadata,Open standard to embed depth images as XMP metadata in standard images.
+81,Design for Driving,UX guidelines for all aspects of Android for Cars.
+82,Device Access,"Access, control, and manage Google Nest devices."
+83,Dialogflow and legacy Actions SDK,"Build voice and visual experiences for smart speakers, displays, and phones."
+84,Directions Service,You can calculate directions (using a variety of methods of transportation) by using the DirectionsService object. This object communicates with the Google Maps API Directions Service which receives direction requests and returns an efficient path.
+85,Distance Matrix Service,"Google's Distance Matrix service computes travel distance and journey duration between multiple origins and destinations using a given mode of travel. This service does not return detailed route information. Route information, including polylines and"
+86,Elevation Service,"The Elevation service provides elevation data for locations on the surface of the earth, including depth locations on the ocean floor (which return negative values). In those cases where Google does not possess exact elevation measurements at the"
+87,Email Markup,Add interactive elements to emails in Gmail.
+88,Enriched Transactions solution,Create enriched transaction statements with Google Maps Platform APIs.
+89,Fast Pair,Easily pair with Bluetooth devices.
+90,Fence API overview,"In the Awareness API, the concept of fences is taken from geofencing, in which a geographic region, or geofence, is defined, and an app receives callbacks when a user enters or leaves the geofence region. The Fence API expands on the concept of"
+91,Forms API,"Send feedback Create surveys, questionnaires, and quizzes and evaluate the results. The Google Forms API lets you programmatically collect information, or quiz people and assign a grade based on their responses. Get started Read a technical overview"
+92,Fuchsia,Fuchsia is a new open source operating system.
+93,Fused Location Provider API,Get location data for your app based on combined signals from the device sensors using a battery-efficient API.
+94,Geocoding Service,"Geocoding is the process of converting addresses (like ""1600 Amphitheatre Parkway, Mountain View, CA"") into geographic coordinates (like latitude 37.423021 and longitude -122.083739), which you can use to place markers or position the map. Reverse"
+95,Geofencing API,Provide useful information to your users when they are near an area of interest.
+96,Get started with the Cloud Billing Budget API,"Google Cloud customers can plan, monitor, and control costs using budgets and budget alerts. Monitoring and controlling costs effectively is important, especially as you scale your business in the cloud. When you're using Google Cloud, our budgets"
+97,Glass Enterprise Edition 2,Develop Glassware.
+98,Glass Explorer Edition,Develop Glassware.
+99,Global site tag (gtag.js),Unify Google's ads and marketing site measurement tools under a single implementation.
+100,Gmail for Developers,"Send feedback Enhance the Gmail experience Insert interactive content, powered by your account data or an external service, with Add-ons and Chatbots. Show relevant sales contracts next to a user's email with a customer. Enforce automated policy"
+101,Google Account Linking,Authorize and share data from third-party user accounts to Google accounts and services.
+102,Google AMP Cache,Load AMP content fast via the Google AMP Cache.
+103,Google Analytics,"Provides APIs to collect, configure, and report on user interactions with your online content."
+104,Google Analytics 4 Properties,Cross device reporting API.
+105,Google Analytics related Terms and Policies,Specific policies and terms of service related to Google Analytics APIs and services
+106,Google API Discovery Service,"Build client libraries, IDE plugins, and other tools that interact with Google APIs."
+107,Google APIs Explorer,The Google APIs Explorer is is a tool that helps you explore various Google APIs interactively.
+108,Google Assistant,The developer platform for the Google Assistant.
+109,Google Assistant Accessories,Optimize your accessory devices for Google Assistant.
+110,Google Assistant SDK,The Google Assistant SDK lets you embed the Google Assistant in your projects.
+111,Google Awareness API,Enable your app to intelligently adapt to the user's situation.
+112,Google Books APIs,Access the full text of the Google Books repository.
+113,Google Business Profile APIs,"Easily manage multiple locations at scale. Use features like Posts, review responses, menu updates, photos, and much more."
+114,Google Calendar for Developers,"Enhance the Google Calendar experience Insert interactive content, powered by your account data or an external service, with Add-ons. Show contextual details from a third-party system when users view or create events. Show your custom conferencing"
+115,Google Chat for Developers,Build on the Chat platform to streamline interactions and workflows across teams.
+116,Google Cloud Armor,Protect your services against denial of service and web attacks using Google’s global infrastructure and security systems.
+117,Google Cloud VMware Engine,Migrate and run your VMware workloads on Google Cloud.
+118,Google developer documentation style guide,Editorial style guidelines for public-facing Google developer documentation.
+119,Google Distributed Cloud,Extend Google Cloud’s infrastructure and services to the edge and into your data centers
+120,Google Docs API,Integrate your service with Google Docs.
+121,Google Docs for Developers,"Develop Google Docs solutions with Add-ons, Apps Script, and APIs."
+122,Google Domains Express Checkout API,The Google Domains Express Checkout API lets your customers instantly buy and connect a domain name to your web service.
+123,Google Drive API,"Send feedback Create files. Manage file sharing. Search for files and folders. The Drive API is used to interact with Google Drive storage, and supports several popular programming languages, such as Java, JavaScript, and Python. Get started Read a"
+124,Google Drive for Developers,"Send feedback Enhance the Google Drive experience Insert interactive content, powered by your account data or an external service, with Add-ons. Show a custom interface for uploading files from Drive into your third-party service. Enable users to"
+125,Google Fit,Read and record health and fitness data from Android and Bluetooth devices.
+126,Google Forms for Developers,"Enhance the Google Forms experience Insert interactive content, powered by your account data or an external service, with Add-ons. Add interface to enhance the form-building experience. Present users with a library of custom Google Form templates."
+127,Google Home,"Make your smart home devices more accessible, engaging and helpful to millions of users on the Google Home platform."
+128,Google Identity,Enable users to sign into apps and authorize apps to use Google services.
+129,Google Issue Tracker,Issue tracker for external Google partners.
+130,Google Maps Booking API,"Seamlessly connect users to your business through prominent Google products like Search, Maps, Reserve with Google, and Assistant."
+131,Google Maps Platform Solutions,Technical implementation guidance for complex use cases.
+132,Google My Business API,"The Google My Business API provides an interface for managing business location information on Google. To call this service, we recommend that you use the Google-provided client libraries. If your application needs to use your own libraries to call"
+133,Google Pay API,Optimize the checkout experience for your users.
+134,Google Pay API for Android,Optimize the checkout experience for your users.
+135,Google Pay for India,Give your customers a faster and more secure online payment experience.
+136,Google Payments Parking Partner Integration API,"Seamlessly connect users to your business through prominent Google products like Search, Maps, Reserve with Google, and Assistant."
+137,Google Photos APIs,Integrate Google Photos with your apps or devices.
+138,Google Play Custom App Publishing API,Private app publishing for enterprises using managed Google Play store.
+139,Google Play Developer API,"Update your apps and store listings, manage multiple release tracks for your products, and access your Google Play accounts."
+140,Google Play services,"Simplify your Android development, grow your user base, and monetize more effectively with Google Play services."
+141,Google Safe Browsing,Check URLs against Google's constantly updated lists of unsafe web resources that include phishing sites and sites that host malware.
+142,Google Sheets for Developers,"Send feedback Enhance the Google Sheets experience Insert interactive content, powered by your account data or an external service, with Add-ons. Create an interface for customizing tables in Sheets. Display an immersive Mail Merge tool. Build a tool"
+143,Google Sign-In for Android,"Get users into your apps quickly and securely, using a registration system they already use and trust; their Google account."
+144,Google Sign-In for iOS,"Get users into your apps quickly and securely, using a registration system they already use and trust; their Google account."
+145,Google Sign-In for Websites,"Get users into your apps quickly and securely, using a registration system they already use and trust; their Google account."
+146,Google Site Verification API,Automate owner verification for domains and web sites.
+147,Google Slides for Developers,"Enhance the Google Slides experience Insert interactive content, powered by your account data or an external service, with Add-ons. Add an interface to automate your custom style guide checks in Slides. Build customized workflow improvements. Connect"
+148,Google Spotlight Stories,"Google Spotlight Stories are new interactive, immersive 360-degree videos and virtual reality stories made uniquely for mobile devices."
+149,Google Tag Manager - Server-side,Server-side Google Tag Manager
+150,Google Tag Manager for Mobile (AMP),Use Google Tag Manager with Accelerated Mobile Pages (AMP).
+151,Google Tag Manager for Mobile (Android),Use Google Tag Manager with mobile apps (Android).
+152,Google Tag Manager for Mobile (iOS),Use Google Tag Manager with mobile apps (iOS).
+153,Google Tag Manager for Web,Google Tag Manager for websites.
+154,Google Tag Manager REST API,"Manage entities like accounts, containers, workspaces, tags, and user permissions using this RESTful interface."
+155,Google Tag Manager Templates,Create tag and variable templates.
+156,Google Workspace Admin SDK,"Automate Admin Console with simple code Anyone can use Apps Script to automate Admin Console tasks in a web-based, low-code environment. Populate a spreadsheet with a list of all the users in a domain. Generate a login activity report for your Slides"
+157,Google Workspace for Developers,"Send feedback Enhance Google Workspace apps Whatever your coding experience, you can empower Google Workspace users. Automate tasks with simple code Use Apps Script to create a custom Sheets formula, automate actions based on Form responses, and"
+158,Google Workspace Marketplace,Retrieve licensing and billing service info.
+159,Google Workspace Reseller API,The Reseller API lets reseller administrators place customer orders for Google Workspace products.
+160,Hosted Libraries,"A stable, reliable, high-speed, globally available content distribution network for the most popular open-source JavaScript libraries."
+161,Indexing API,Notify Google Search when job posting or livestream pages are added or removed.
+162,Instance ID,Instance ID is a cloud service that provides unique IDs for each instance of your app and a means to create security tokens for use with other services.
+163,Interactive Media Ads SDKs,"The IMA SDKs enable publishers to monetize video, audio, or gaming content with video advertising."
+164,Internationalization (i18n),Tools and practices for internationalization and localization.
+165,J2ObjC,Java to iOS Objective-C translation tool and runtime.
+166,Jibe,RCS solutions for carriers by Google.
+167,Knowledge Graph Search API,Search for matching Google Knowledge Graph entities.
+168,Lite Mode,"The Maps SDK for Android can serve a bitmap image of a map, offering limited interactivity to the user. This is called a lite mode map. The ApiDemos repository on GitHub includes samples that demonstrate the use of lite mode: A lite mode map is a"
+169,Location and Context APIs,Build location-based and context-aware experiences in Android with APIs that bridge the digital and physical worlds.
+170,Locator Plus solution,Help customers find nearby products faster.
+171,Looker Business Intelligence Platform & Embedded Analytics,"Looker is an enterprise platform for BI, data applications, and embedded analytics that helps you explore and share insights in real time."
+172,Make the Web Faster,Tools and information to help you build high performance web sites.
+173,Manage contacts with the CardDAV protocol,"You can view and manage your contacts using Google's CardDAV protocol. Contacts are stored in the user's Google Account; most Google services have access to the contact list. Your client application can use the CardDAV API to create new contacts,"
+174,Manufacturer Center API,A public API for managing Manufacturer Center related data.
+175,Maps API on Wear OS,"Using the Maps SDK for Android, you can create a map-based wearable app that runs directly on Wear OS by Google devices. Users of your app can see their location on the map just by glancing at their wrists. They can plot their position on a route,"
+176,Measurement Protocol for Google Analytics 4,Send raw user interaction data to Google Analytics using HTTP requests.
+177,Memorystore,Memorystore is a fully-managed database service that provides a managed version of two popular open source caching solutions: Redis and Memcached. The two Memorystore offerings are Memorystore for Redis and Memorystore for Memcached. Managed Redis
+178,ML Kit,Google's on-device machine learning kit for mobile developers.
+179,Mobile Data Plan Sharing API,An interface for mobile operators to share information about user's data plans.
+180,Mobile Vision,Mobile Vision
+181,Nearby,A platform for discovering and communicating with nearby devices.
+182,Nearby Connections API,Discover nearby devices and create real-time connections.
+183,Nearby Messages API,"Discover nearby devices, then send and receive data."
+184,Nearby Notifications,"Discover nearby sites, apps, and devices."
+185,News on Google Assistant,Enable users to access your news content with an Assistant-enabled device.
+186,Octane,The JavaScript Benchmark Suite for the modern web.
+187,Open Spherical Camera API,Open Spherical Camera API is a proposed set of commands to implement a common API for spherical cameras with WiFi.
+188,OpenThread,An open foundation for the connected home.
+189,OpenWeave,A secure and reliable communications backbone for the connected home.
+190,Optimize,Optimize enables you to test variants of web pages to see how they perform against specific objectives.
+191,OR-Tools,"The OR-Tools suite provides operations research software libraries and APIs for constraint optimization, linear optimization, and flow and graph algorithms."
+192,Order with Google,"Google lets partners take and process food orders using restaurants in their network, so that users can order food on Google."
+193,OS Login,"This page describes the OS Login service and how it works. For information on setting up OS Login or for step-by-step instructions, see Setting up OS Login or Setting up OS Login with 2-step verification. Use OS Login to manage SSH access to your"
+194,Over The Air API,Create and manage Android device software updates.
+195,Overview,"The Google Pay API enables fast, simple checkout on your website, and gives you convenient access to hundreds of millions of cards saved to Google Accounts worldwide. When a user clicks the Google Pay payment button, they see a payment sheet that"
+196,PageSpeed Module,The PageSpeed modules are open-source server modules that optimize your site automatically.
+197,Payments Reseller Subscription API,"The Payments Reseller Subscription API enables a wholesale business-to-business platform for Google subscription products (such as Stadia, Nest, Google One), where third parties could resell these products to their customers. This API is used to activate and manage the Google subscriptions."
+198,People API,View and manage contacts and domain profiles.
+199,Picker,Embed a Google Drive file manager widget in your web app.
+200,Place Autocomplete,"The Places API is also available with the Java Client, Python Client, Go Client and Node.js Client for Google Maps Services. The Places API and the client libraries are for use in server applications. If you're building a client-side application,"
+201,Place Details,"The Places API is also available with the Java Client, Python Client, Go Client and Node.js Client for Google Maps Services. The Places API and the client libraries are for use in server applications. If you're building a client-side application,"
+202,Places Library,"The functions in the Places Library, Maps JavaScript API enable your application to search for places (defined in this API as establishments, geographic locations, or prominent points of interest) contained within a defined area, such as the bounds"
+203,Product Locator - implementation guide,"Google Maps Platform is available for web (JS, TS), Android, and iOS, and also offers web services APIs for getting information about places, directions, and distances. The samples in this guide are written for one platform, but documentation links"
+204,Programmable Search Engine,Programmable Search Engine lets you programmatically build and manage search engines for your site.
+205,Promotions tab,Deliver more value for users in Gmail.
+206,Protocol Buffers,"Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data."
+207,Public Alerts,"Tools, instructions, and support for providers of emergency alert data."
+208,Public NTP,"A free, global time service that you can use to synchronize to Google's atomic clocks."
+209,Quick & Verified Sign-up solution,Let users sign up quickly and verify their address based on their current location.
+210,RDAP API,Read-only public API that searches for information about domain names.
+211,Realtime Transit,Format for exchanging realtime public transit information.
+212,fastlane,An open source platform that lets you automate every aspect of the development and release process for your Android and iOS apps.
+213,FlatBuffers,"FlatBuffers is an efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, Lobster, Lua, TypeScript, PHP, Python, and Rust."
+214,Flutter,"Craft high-quality native interfaces on iOS and Android with this open source, mobile UI framework."
+215,Go (language),"Build simple, reliable, and efficient software with this open source programming language."
+216,Google Fonts,"Robust catalog of open-source fonts and icons, makes it easy to integrate expressive type and icons seamlessly."
+217,Kaggle,Kaggle is an online community of data scientists and machine learning practitioners.
+218,Lit,"Lit is a simple library for building fast, lightweight web components."
+219,Material Design,Material is a design system backed by open source code that helps teams build high-quality digital experiences.
+220,On-Demand Rides and Deliveries,Power rides and deliveries with detailed geospatial data and predictable pricing.
+221,Tables,Area 120 Tables API product.
+222,reCAPTCHA,Protect your site from spam and abuse.
+223,reCAPTCHA Enterprise,reCAPTCHA Enterprise protects your website from spam and abuse.
+224,REST API,"The Google Fit REST API enables you to store and read health and wellness data in the fitness store from apps on any platform. The REST API provides resources and methods to: Create, obtain, list, and modify data sources. A data source represents a"
+225,Runtime Configurator Fundamentals,"This document provides an overview of the Runtime Configurator feature and describes the key concepts related to Runtime Configurator. To learn how to create a RuntimeConfig resource, read Creating and Deleting RuntimeConfig Resources. The Runtime"
+226,Safe Browsing APIs (v4),The Safe Browsing APIs allow client applications to check URLs against Google's constantly updated lists of unsafe web resources.
+227,Search Central,Improve your site's visibility on Google Search
+228,Security Command Center,The canonical security and data risk database for Google Cloud.
+229,Service Infrastructure,"Service Infrastructure is a foundational platform for creating, managing, securing, and consuming APIs and services across organizations. It is used by Google APIs, Cloud APIs, Cloud Endpoints, and API Gateway. Service Infrastructure provides a wide"
+230,Sheets API,"Send feedback Read and write spreadsheet data. Create charts and build pivot tables. The Google Sheets API lets you read, write, and format Google Sheets data with your preferred programming language, including Java, JavaScript, and Python. Get"
+231,Sign In With Google,"User sign-up and sign-in featuring personalized buttons, one tap and automatic sign-in."
+232,Sleep API,"Provides a simple, automatic mechanism for detecting sleep-related events."
+233,Slides API,Integrate your service with Google Slides.
+234,Smart Device Management API,"Access, control, and manage Google Nest devices programmatically."
+235,Smart Lock for Passwords on Android,"Programmatically save and retrieve credentials, and automatically sign users in across devices and websites in Chrome."
+236,SMS Verification APIs,Create great SMS verification experiences on Android.
+237,Snapshot API overview,"You can use the Snapshot API to get information about the user's current environment. With the Snapshot API, you can access a variety of context signals: The system caches these values so that they can be returned quickly. If there's no data, sensing"
+238,SPDY,Speed up the web using the SPDY networking protocol.
+239,Spectrum Access System APIs,Manage your network resources that are controlled by Google's Spectrum Access System (SAS).
+240,Static Transit,Format for exchanging static public transit information.
+241,Street View,"Google Street View provides panoramic 360-degree views from designated roads throughout its coverage area. This video shows how you can use the Street View service to give your users a real-world experience of an address on the map, providing them"
+242,Street View,"Google Maps Street View lets you explore places around the world through 360-degree, street-level imagery. You can explore world landmarks, view natural wonders, navigate a trip, or show the outside of your business. Google Street View provides"
+243,Street View,APIs for contributing to Street View imagery.
+244,Street View Publish API,Upload your own Street View.
+245,Street View Service,Google Street View provides panoramic 360 degree views from designated roads throughout its coverage area. Street View's API coverage is the same as that for the Google Maps application ( https://maps.google.com/ ). The list of currently supported
+246,Subscribe with Google,Optimize the subscription experience for your users.
+247,Swiffy,A simple Flash to HTML5 converter that helps make SWF files available to a larger audience.
+248,Tag Manager,"Deploy and update measurement tags on your websites and mobile apps from a web interface, without major code changes or app releases."
+249,Tags,"Developer reference for Google's tag tools and libraries, including global site tags (gtag.js) and Google Tag Manager."
+250,Tasks API,Integrate your service with Google Tasks.
+251,Tau VMs with industry-leading performance,Compute Engine VM family optimized for cost-effective performance of scale-out workloads.
+252,Things to do,Make it easy for users to search for things to do and seamlessly connect with partners.
+253,Timeseries Insights API,"Provides a Timeseries Insights service which operates over time series data. Users can perform time series spike, trend, and anomaly detection. With a straightforward API and easy to understand results, the service makes it simple to gather insights from large amounts of time series data (e.g. monitoring datasets) and integrate these insights in their applications."
+254,Tink,"Tink is a multi-language, cross-platform, open source library that provides secure and easy-to-use cryptographic APIs."
+255,Tools for Web Developers,Discover tools that can help you kickstart your development.
+256,Transit,Common formats for exchanging static and realtime public transit information.
+257,Universal Analytics for Web (gtag.js),"A JavaScript tagging framework and API that lets you configure a site to send event data to Google Analytics, Google Ads, and Google Marketing Platform."
+258,User Deletion API,Delete all data in a Google Analytics property associated with a user identifier.
+259,User engagement,Bring users back to your Action
+260,User engagement,Bring users back to your Action
+261,User Location,Most browsers and devices have access to the user's geographic location. Learn how to work with the user's location in your site and apps.
+262,Using OAuth 2.0 to Access Google APIs,"Google APIs use the OAuth 2.0 protocol for authentication and authorization. Google supports common OAuth 2.0 scenarios such as those for web server, client-side, installed, and limited-input device applications. To begin, obtain OAuth 2.0 client"
+263,Using VPC Flow Logs,"VPC Flow Logs records a sample of network flows sent from and received by VM instances, including instances used as GKE nodes. These logs can be used for network monitoring, forensics, real-time security analysis, and expense optimization. This page"
+264,Vault API,"Send feedback Perform eDiscovery tasks. Search, hold, and export data of interest. Use the Vault API for eDiscovery of your organization's data in supported Google Workspace services. Manage matters, place holds, and start and download exports. Get"
+265,Voice Actions,Let users complete actions in your app using voice commands.
+266,VPC Service Controls,Define a security perimeter around resources of Google managed services to control communication to and between those services.
+267,Waze,Add navigation and traffic updates to your sites and apps with Waze features.
+268,Waze Ads Management API,Create and manage Waze Ads accounts
+269,Web,Build the next generation of web experiences.
+270,Web Fundamentals,Google's opinionated reference for building amazing web experiences.
+271,WebP,An image format for the Web.
+272,WebRTC,An open framework for the web that enables Real-Time Communications (RTC) capabilities in the browser.
+273,Workbox,Workbox is a set of service worker libraries that making build progressive web apps easy.
+274,YouTube,Integrate YouTube videos and functionality into your website or application.
+275,YouTube Analytics and Reporting APIs,Retrieve YouTube Analytics data for YouTube videos and channels.
+276,YouTube Data API,Lets your application retrieve YouTube content while also enabling YouTube users to manage their YouTube accounts.
+277,YouTube for Android,Add YouTube functionality to your Android apps.
+278,YouTube Live Streaming API,"Create, update, and manage live events on YouTube."
+279,YouTube Subscribe Button,Enable users to subscribe to your channel with one click.
