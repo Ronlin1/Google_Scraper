@@ -85,10 +85,5 @@ cleaned_summaries = [data for data in summaries if data != ""]
 products_dataframe = pd.DataFrame(list(zip(cleaned_titles, cleaned_summaries)), columns =['Product', 'Summary'])
 products_dataframe.to_csv('Google_Products.csv')
 
-
-# data_2_csv = pd.DataFrame(clean_data_, columns=["column"])
-# data_2_csv.to_csv("jumia.csv", mode="a", index=False)
-# print(data_2_csv)
-
 # Lets close ops
 driver.quit()
